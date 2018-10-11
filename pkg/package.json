@@ -1,0 +1,15 @@
+{
+  "name": "wasm-timing-experiment",
+  "collaborators": [
+    "Reece Stevens <reecestevens24@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_timing_experiment_bg.wasm",
+    "wasm_timing_experiment.js",
+    "wasm_timing_experiment.d.ts"
+  ],
+  "module": "wasm_timing_experiment.js",
+  "types": "wasm_timing_experiment.d.ts",
+  "sideEffects": "false"
+}
